@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://elsuppo.github.io/">
-    <img src="https://img.shields.io/badge/Site-blue?style=for-the-badge&logo=react&logoColor=white" alt="Site"/>
+    <img src="https://img.shields.io/badge/Personal-blue?style=for-the-badge&logo=react&logoColor=white" alt="Personal"/>
   </a>
 </div>
 
