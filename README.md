@@ -10,7 +10,7 @@
 <details>
   <summary>Click here</summary>
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elsuppo" alt="profile-details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elsuppo" alt="most-commit-language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elsuppo" alt="github-stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asuponev" alt="profile-details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asuponev" alt="most-commit-language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asuponev" alt="github-stats"/>
 </details>
